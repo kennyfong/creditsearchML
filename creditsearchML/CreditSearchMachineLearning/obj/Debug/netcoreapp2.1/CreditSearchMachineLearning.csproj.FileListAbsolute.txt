@@ -1,0 +1,13 @@
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\bin\Debug\netcoreapp2.1\CreditSearchMachineLearning.deps.json
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\bin\Debug\netcoreapp2.1\CreditSearchMachineLearning.runtimeconfig.json
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\bin\Debug\netcoreapp2.1\CreditSearchMachineLearning.runtimeconfig.dev.json
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\bin\Debug\netcoreapp2.1\CreditSearchMachineLearning.dll
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\obj\Debug\netcoreapp2.1\CreditSearchMachineLearning.csprojAssemblyReference.cache
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\obj\Debug\netcoreapp2.1\CreditSearchMachineLearning.csproj.CoreCompileInputs.cache
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\obj\Debug\netcoreapp2.1\CreditSearchMachineLearning.AssemblyInfoInputs.cache
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\obj\Debug\netcoreapp2.1\CreditSearchMachineLearning.AssemblyInfo.cs
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\bin\Debug\netcoreapp2.1\CreditSearchMachineLearning.pdb
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\obj\Debug\netcoreapp2.1\CreditSearchMachineLearning.dll
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\obj\Debug\netcoreapp2.1\CreditSearchMachineLearning.pdb
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\bin\Debug\netcoreapp2.1\Data\taxi-fare-test.csv
+C:\Users\kenny.fong\source\repos\CreditSearchMachineLearning\CreditSearchMachineLearning\bin\Debug\netcoreapp2.1\Data\taxi-fare-train.csv
